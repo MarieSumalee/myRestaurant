@@ -20,6 +20,6 @@ authors = [
 
 # If porting an existing theme
 [original]
-    author = "Resto Hugo"
+    author = "Marie Sumalee"
     homepage = "His/Her website"
     repo = "Link to source code of original theme"
