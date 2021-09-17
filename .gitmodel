@@ -1,4 +1,0 @@
-[submodule "MyResto"]
-	path = MyResto
-	url = https://github.com/domainmaster/resto-hugo.git
-	branch = main
