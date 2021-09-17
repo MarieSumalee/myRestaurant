@@ -20,8 +20,10 @@ facebook = "https://facebook.com"
 twitter = "https://twitter.com"
 instagram = "https://instagram.com"
 
+
 [[module.imports]]
-    path = "github.com/craftsmandigital/markdown-content-repo"
+    path = "[[module.imports]]
+    path = "github.com/domainmaster/resto-hugo.git-repo"
     disabled = false
 
     [[module.imports.mounts]]
