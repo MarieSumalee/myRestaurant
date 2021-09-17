@@ -26,5 +26,5 @@ instagram = "https://instagram.com"
     disabled = false
 
     [[module.imports.mounts]]
-    source = "testing-hugo-modules"
+    source = "resto-hugo-modules"
     target = "content/new-stuff"
