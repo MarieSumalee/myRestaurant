@@ -1,4 +1,4 @@
-# myRestuarant
+# myRestaurant
 
 ![Screenshot](https://gitlab.com/kskarthik/resto-hugo/raw/master/images/screenshot.png "Resto Hugo Theme!")
 
