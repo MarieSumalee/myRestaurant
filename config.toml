@@ -1,6 +1,6 @@
 baseURL = "http://example.com/"
 languageCode = "en-us"
-title = "Resto Hugo - Port of resto theme for hugo"
+title = "myResto - Port of resto theme for hugo"
 theme = "resto-hugo"
 
 githubName = "mariesumalee"
