@@ -3,7 +3,7 @@
 ![Screenshot](https://gitlab.com/kskarthik/resto-hugo/raw/master/images/screenshot.png "Resto Hugo Theme!")
 
 
-See myResto website here...https://app.netlify.com/sites/my-restaurant-test/overview
+See myResto website here...https://my-restaurant-test.netlify.app
 
 **The images are only for demonstration purpose, Please don't use those images.**
 
