@@ -21,7 +21,6 @@ twitter = "https://twitter.com"
 instagram = "https://instagram.com"
 
 
-[[module.imports]]
    [[module.imports]]
     path = "github.com/craftsmandigital/markdown-content-repo"
     disabled = false
