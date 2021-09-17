@@ -1,0 +1,25 @@
+name = "Theme Name"
+license = "MIT"
+licenselink = "Link to theme's license"
+description = "Theme description"
+homepage = "https://freehtml5.co/resto-free-responsive-bootstrap-4-template-for-restaurants/"
+tags = ["blog", "company"]
+features = ["some", "awesome", "features"]
+min_version = "0.59.1"
+
+# If the theme has multiple authors
+authors = [
+  {name = "Resto Hugo", homepage = "https://freehtml5.co/resto-free-responsive-bootstrap-4-template-for-restaurants/"},
+  {name = "Name of author", homepage = "Website of author"}
+]
+
+# If the theme has a single author
+[author]
+    name = "Marie Sumalee"
+    homepage = "Resto Hugo
+
+# If porting an existing theme
+[original]
+    author = "Name of original author"
+    homepage = "His/Her website"
+    repo = "Link to source code of original theme"
